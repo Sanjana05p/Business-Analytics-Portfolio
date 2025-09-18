@@ -34,7 +34,7 @@ This repository was created to showcase my analytical and technical skills (Exce
 
 
 # Contact Me
-- [LinkedIn](https://www.linkedin.com/in/peddi-sanjana-95b772250/)
-- [Email](mailto:peddisanjana@gmail.com)
+LinkedIn: [https://www.linkedin.com/in/peddi-sanjana-95b772250/](https://www.linkedin.com/in/peddi-sanjana-95b772250/)  
+Email: [peddisanjana@gmail.com](mailto:peddisanjana@gmail.com)  
 
 
