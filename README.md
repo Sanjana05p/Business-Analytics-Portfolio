@@ -33,8 +33,8 @@ This repository was created to showcase my analytical and technical skills (Exce
 - [IOA Membership](./Certificates/IOA%20Membership.pdf)  
 
 
-# Contacts
-- [LinkedIn](www.linkedin.com/in/peddi-sanjana-95b772250)  
-- [Email](mailto:peddisanjana@gmail.com)  
+# Contact Me
+- [LinkedIn](https://www.linkedin.com/in/peddi-sanjana-95b772250/)
+- [Email](mailto:peddisanjana@gmail.com)
 
 
