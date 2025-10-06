@@ -15,14 +15,14 @@ This repository was created to showcase my analytical and technical skills (Exce
 ### 1.Pfizer Inc. A Strategic and Financial Analysis of a Global Pharmaceutical Leader
 - **Year:** 2024  
 - **Overview:** Financial Portfolio Analysis of Pharmaceutical Company called Pfizer.
-- [📄 Read Full Paper](./Research-Papers/Role_of_Currency_Futures_in_Forex_Trading.pdf)
+- [📄 Read Full Paper](./Research%20Papers/Pfizer%20Inc.%20A%20Strategic%20and%20Financial%20Analysis%20of%20a%20Global%20Pharmaceutical%20Leader.pdf)
 
 
 
-### 2. Effectiveness of Social Media Contests and Giveaways
-- **Year:** 2025  
+### 2. Pre GST-Taxation And Its Impact On Hotel Industry
+- **Year:** 2024  
 - **Overview:** Analyzes how social media contests influence purchasing behavior using linear regression to evaluate engagement and effectiveness.  
-- [📄 Read Full Paper](./Research-Papers/Effectiveness_of_Social_Media_Contests_and_Giveaways.pdf)
+- [📄 Read Full Paper](./Research%20Papers/Pre%20GST-Taxation%20And%20Its%20Impact%20On%20Hotel%20Industry.pdf)
 
 
 
