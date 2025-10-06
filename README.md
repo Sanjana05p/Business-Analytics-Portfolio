@@ -12,9 +12,9 @@ This repository was created to showcase my analytical and technical skills (Exce
 
 ## 📚 Research Publications
 
-### 1. Role of Currency Futures in Forex Trading
-- **Year:** 2025  
-- **Overview:** Explores the significance of currency futures in foreign exchange trading, focusing on speculation, hedging, and market stability.  
+### 1.Pfizer Inc. A Strategic and Financial Analysis of a Global Pharmaceutical Leader
+- **Year:** 2024  
+- **Overview:**
 - [📄 Read Full Paper](./Research-Papers/Role_of_Currency_Futures_in_Forex_Trading.pdf)
 
 
