@@ -14,7 +14,7 @@ This repository was created to showcase my analytical and technical skills (Exce
 
 ### 1.Pfizer Inc. A Strategic and Financial Analysis of a Global Pharmaceutical Leader
 - **Year:** 2024  
-- **Overview:**
+- **Overview:** Financial Portfolio Analysis of Pharmaceutical Company called Pfizer.
 - [📄 Read Full Paper](./Research-Papers/Role_of_Currency_Futures_in_Forex_Trading.pdf)
 
 
