@@ -10,6 +10,23 @@ You can see more information in my [RESUME](Resume.pdf).
 This repository was created to showcase my analytical and technical skills (Excel, Python, SQL, Power BI, R, and others).  
 
 
+## 📚 Research Publications
+
+### 1. Role of Currency Futures in Forex Trading
+- **Year:** 2025  
+- **Overview:** Explores the significance of currency futures in foreign exchange trading, focusing on speculation, hedging, and market stability.  
+- [📄 Read Full Paper](./Research-Papers/Role_of_Currency_Futures_in_Forex_Trading.pdf)
+
+
+
+### 2. Effectiveness of Social Media Contests and Giveaways
+- **Year:** 2025  
+- **Overview:** Analyzes how social media contests influence purchasing behavior using linear regression to evaluate engagement and effectiveness.  
+- [📄 Read Full Paper](./Research-Papers/Effectiveness_of_Social_Media_Contests_and_Giveaways.pdf)
+
+
+
+
 ## Certificates
 
 - [Business Analysis Foundations](./Certificates/Business%20Analysis%20Foundations.pdf)  
@@ -31,6 +48,7 @@ This repository was created to showcase my analytical and technical skills (Exce
 - [Elewyate](./Certificates/Elewyate.pdf)  
 - [Hack AI](./Certificates/Hack%20AI.pdf)  
 - [IOA Membership](./Certificates/IOA%20Membership.pdf)  
+
 
 
 # Contact Me
